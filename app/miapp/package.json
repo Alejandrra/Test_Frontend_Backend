@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "react-bootstrap": "^2.10.1",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "laravel-mix": "^6.0.49"
+  }
+}
